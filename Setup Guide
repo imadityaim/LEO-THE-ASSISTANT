@@ -1,0 +1,11 @@
+# Quick Installation
+
+  git clone https://github.com/imadityaim/LEO-THE-ASSISTANT/tree/main
+
+# Installl All Packages
+
+  pip install -r requirements.txt
+
+# Run the Program
+
+  python leo.py
